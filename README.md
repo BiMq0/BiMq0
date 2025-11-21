@@ -13,15 +13,15 @@ My focus lies in building modular, secure, and scalable systems.
 ## 💼 Professional Experience
 ---
 Frontend Developer · Universidad Privada del Valle
-6 months
+> May 2025 - October 2025
 - Front-end development using legacy stacks (.NET WebForms)
 - Collaborated across departments to improve internal systems
 ---
 
 ## 🌱 Complementary Experience
 ---
-President · Scientific Society of Systems Engineering · UNIVALLE  
-2025 – Present
+### President · Scientific Society of Systems Engineering · UNIVALLE
+> 2025 – Present
 ---
 
 ## 🧰 Tech Stack
