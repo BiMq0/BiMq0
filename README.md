@@ -2,13 +2,13 @@
 
 <div align="center">
 Hi, I'm BiMq0 (Bryan)
-Software Developer · Full Stack Architect · Computer Science Student
+Software Developer · Full Stack Architect · Systems Engineering Student
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+great+solutions;Passionate+about+everything+I+do;Repository+Pattern+is+GOD;Long+live+C%23+down+with+PHP" alt="Typing SVG" />
 </div>
 
 ## 🧠 About Me 
-I'm Bryan Iban Mamani Quispe, currently in my 4th semester of Computer Science at Universidad Privada del Valle (UNIVALLE). I blend academic learning with real-world impact, leading as President of the Scientific Society of Informatics Engineering.
-My focus lies in building modular, secure, and scalable systems.
+I'm Bryan Iban Mamani Quispe, currently in my 4th semester of Systems Engineering at Universidad Privada del Valle (UNIVALLE). I blend academic learning with real-world impact, leading as President of the Scientific Society of Informatics Engineering.
+My focus lies in building modular, secure, and scalable system, and money obviously.
 
 ## 💼 Professional Experience
 ---
